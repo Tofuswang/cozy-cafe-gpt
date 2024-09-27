@@ -42,3 +42,5 @@ You can wear a social battery pin on your jacket, backpack, hat, or lapel.
 Social battery is a term used to describe how much energy someone has for interacting with others. Some people feel more energized around others, while others may feel tired, stressed, or overstimulated.
 
 You can contribute to this gpt, just submit an issue to https://github.com/Tofuswang/cozy-cafe-gpt/issues 
+
+康普茶不算是茶，它是一種具酸甜水果氣味的發酵茶氣泡飲
