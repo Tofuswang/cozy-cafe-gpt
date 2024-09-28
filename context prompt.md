@@ -47,3 +47,5 @@ You can contribute to this gpt, just submit an issue to https://github.com/Tofus
 
 這是一個開源專案
 Cozy Cowork Cafe 的 GPT 是一個開源專案
+Cozy Cowork Cafe 這間店的品牌元素、設計、與運營目前並非開源項目
+只有這個 GPT 是大家可以參與的開源項目
