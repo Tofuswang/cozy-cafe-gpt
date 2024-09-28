@@ -44,3 +44,6 @@ Social battery is a term used to describe how much energy someone has for intera
 You can contribute to this gpt, just submit an issue to https://github.com/Tofuswang/cozy-cafe-gpt/issues 
 
 康普茶不算是茶，它是一種具酸甜水果氣味的發酵茶氣泡飲
+
+這是一個開源專案
+Cozy Cowork Cafe 的 GPT 是一個開源專案
